@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "zh-CN",
-    baseUrl: "suda.vercel.app",
+    baseUrl: "fantareal-guide.vercel.app",
     ignorePatterns: [
       "private",
       "templates",
